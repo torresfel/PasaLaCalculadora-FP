@@ -1,0 +1,18 @@
+---------------------------------------------------------
+		Acerca de Pasa la Calculadora
+
+Practica 1 v3 realizada por:
+		Jose Luis Moreno y Desiree Ventencourt Rosas
+		Facultadad de Informatica
+		Universidad Complutense de Madrid
+---------------------------------------------------------
+		INSTRUCCIONES
+Este juego consiste en no llegar a sumar 31
+con algunas condiciones:
+	1. El numero a introducir debe estar en la 
+		misma fila o columna que el anterior
+	2. El primero que llega a 31 pierde el
+		juego
+
+	^^ ESPERO QUE LO DISFRUTES! ^^
+XXX
